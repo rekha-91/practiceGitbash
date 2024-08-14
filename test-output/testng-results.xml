@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-14T17:27:16 IST" name="Default suite" finished-at="2024-08-14T17:27:40 IST" duration-ms="24174">
+    <groups>
+    </groups>
+    <test started-at="2024-08-14T17:27:16 IST" name="Default test" finished-at="2024-08-14T17:27:40 IST" duration-ms="24174">
+      <class name="com.ninza.api.ProjectTest.AddProjectWitONGoingStatusTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.ninza.api.ProjectTest.AddProjectWitONGoingStatusTest@2cd76f31]" started-at="2024-08-14T17:27:14 IST" name="configBS" finished-at="2024-08-14T17:27:16 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="addProjectWitONGoingStatustest()[pri:0, instance:com.ninza.api.ProjectTest.AddProjectWitONGoingStatusTest@2cd76f31]" started-at="2024-08-14T17:27:16 IST" name="addProjectWitONGoingStatustest" finished-at="2024-08-14T17:27:40 IST" duration-ms="24109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProjectWitONGoingStatustest -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.ninza.api.ProjectTest.AddProjectWitONGoingStatusTest@2cd76f31]" started-at="2024-08-14T17:27:40 IST" name="configAS" finished-at="2024-08-14T17:27:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ninza.api.ProjectTest.AddProjectWitONGoingStatusTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
